@@ -1,0 +1,11 @@
+{
+  "brand": "Roomwise",
+  "contact_email": "hello@example.com",
+  "product_checkout_url": "",
+  "affiliate_offers": [],
+  "analytics": {
+    "provider": "none",
+    "site_id": ""
+  },
+  "advertising_enabled": false
+}
